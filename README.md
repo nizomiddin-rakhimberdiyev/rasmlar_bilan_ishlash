@@ -1,0 +1,1 @@
+# rasmlar_bilan_ishlash
